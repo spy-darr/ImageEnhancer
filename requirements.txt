@@ -1,0 +1,9 @@
+streamlit
+opencv-python-headless
+numpy
+Pillow
+torch
+torchvision
+basicsr
+realesrgan
+gfpgan
