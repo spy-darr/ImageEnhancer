@@ -4,6 +4,4 @@ numpy
 Pillow
 torch
 torchvision
-basicsr
-realesrgan
-gfpgan
+super-image
